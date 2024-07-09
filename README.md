@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sundeep From Chicago, USA
-- 👀 I’m interested in ... Developemnt , Testing, Project Management, Adventure game and Playing Guitar
-- 🌱 I’m currently learning ... AWS and Kotlin
-- 💞️ I’m looking to collaborate on ... Android and AWS developemnt
+- 👀 I’m interested in ... development, Testing, Project Management, Adventure games and Playing Guitar
+- 🌱 I’m currently learning ... AWS and Kotlin, SprintBoot, Microservices and DataBricks, 
+- 💞️ I’m looking to collaborate on ... Android and AWS development
 - 📫 How to reach me ... sundeeprs@gmail.com / sundeeprs@yahoo.com
 - 
 
